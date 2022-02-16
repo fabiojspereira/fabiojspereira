@@ -24,5 +24,4 @@ FABIO JS PEREIRA
 - [Gerador de jogos para lotofacil](https://github.com/fabiojspereira/Programas/blob/555ca261ca6877771ede7005a295268a16506557/Gerador_Lotof%C3%A1cil.py)
 - [Gerador de jogos para mega sena](https://github.com/fabiojspereira/Programas/blob/d81d35b51ea94c9ae158dc95be6ad77880571168/Gerador_Mega_Sena.py)
 - [Gerador de jogos para quina](https://github.com/fabiojspereira/Programas/blob/d81d35b51ea94c9ae158dc95be6ad77880571168/Gerador_Quina.py)
-
-
+- [Exercício matemático 0001](https://github.com/fabiojspereira/Programas/blob/d81d35b51ea94c9ae158dc95be6ad77880571168/Exercicio_Math_001.py)
