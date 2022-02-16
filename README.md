@@ -1,10 +1,15 @@
-## Olá ! Eu sou Fábio JS Pereira.
+## Eu sou Fábio JS Pereira.
+### *Seja bem vindo ao meu github !* 
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fabiojspereira)](https://github.com/fabiojspereira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fábiojspereira/)](https://www.linkedin.com/in/fábiojspereira/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fabiojspereira)](https://twitter.com/fabiojspereira)
 
-#### Tenho interesse nas seguintes tecnologias :
+
+
+
+###### Tenho interesse nas seguintes tecnologias :
 
 <div>
     <a href="https://github.com/fabiojspereira">
@@ -17,3 +22,7 @@
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     </a>      
 </div>
+
+
+###### Atualmente estou estudando pelo curso em vídeo e através de livros :
+
